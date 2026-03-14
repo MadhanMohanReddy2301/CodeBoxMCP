@@ -118,8 +118,6 @@ AZURE_DATABASE_CONNECTION_STRING=<your-odbc-connection-string>
 AZURE_DATABASE_PASSWORD=<your-password>
 ```
 
-> See the full configuration reference in [DOCUMENTATION.md](DOCUMENTATION.md#5-configuration-reference).
-
 ### 3. Start the server
 
 ```bash
