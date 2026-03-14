@@ -49,7 +49,7 @@ Built on [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)
 ## Architecture
 
 <p align="center">
-  <img src="codebox.png" alt="Code Box Architecture" width="800">
+  <img src="CodeBox.png" alt="Code Box Architecture" width="800">
 </p>
 
 ### Design Principles
