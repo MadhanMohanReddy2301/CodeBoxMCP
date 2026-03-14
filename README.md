@@ -372,13 +372,6 @@ See [DOCUMENTATION.md](DOCUMENTATION.md#5-configuration-reference) for the full 
 
 ---
 
-## Documentation
-
-- **[DOCUMENTATION.md](DOCUMENTATION.md)** — Full integration guide with detailed tool schemas, examples, best practices, troubleshooting, and FAQ.
-- **[USAGE_GUIDE.html](USAGE_GUIDE.html)** — HTML-formatted usage guide.
-- **[architecture.drawio](architecture.drawio)** — Visual architecture diagram (open with [draw.io](https://app.diagrams.net)).
-
----
 
 ## License
 
