@@ -1,0 +1,29 @@
+# MCP Code Interpreter Server - Dependencies
+
+# MCP framework
+mcp
+
+# Open Interpreter runtime
+open-interpreter
+
+# Data & visualization libraries
+pandas
+numpy
+matplotlib
+plotly
+openpyxl
+seaborn
+
+# HTTP client (for blob/SAS URL downloads)
+requests
+
+# Azure Blob Storage (artifact upload & SAS URL generation)
+azure-storage-blob
+azure-identity
+
+# Azure SQL Database (exec_sql tool)
+sqlalchemy
+pyodbc
+
+# Environment config
+python-dotenv
